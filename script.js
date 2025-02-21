@@ -12,10 +12,10 @@ const currTime = document.querySelector('#currTime');
 const durTime = document.querySelector('#durTime');
 
 // Song titles
-const songs = [ 'just-a-dream', 'closer', 'on-my-own', 'rockabye', 'starving', 'audio' ,
+const songs = [ 'just-a-dream',  'rox', 'wasted', 'sun', 'dj', '7', 'post', 'light', 'teen' , 'brian ', 'girls', 'lala', 'bye' ,'audio' ,
 	       'Set Fire to the Rain','Ava Max - Sweet but Psycho [Official Music Video]' , 'Maroon 5 - Animals (Lyrics)',
 	        'payphone', 'heat wave', 'all we know', 'The Neighbourhood - Sweater Weather', 'Sia - Cheap Thrills',
-	        'Ruth B. - Dandelions'    ];
+	        'Ruth B. - Dandelions'  , 'closer', 'on-my-own', 'rockabye', 'starving'  ];
 
 // Keep track of song
 let songIndex = 0;
