@@ -11,7 +11,7 @@ const cover = document.getElementById('cover');
 
 // Song titles
 const songs = [ 'gotus','night', 'cut', '2002', 'east', 'past' , 'trust', 'okay' , 'whatever'
-	       ,'rox', 'sun',  '7', 'post', 'light', 'teen' , 'brian','die with a smile song', 'girls', 'lala', 'bye' ,'audio' ,
+	       ,'rox', 'sun',  '7', 'post', 'light', 'teen' , 'brian','die with a smile', 'girls', 'lala', 'bye' ,'audio' ,
 	       'Set Fire to the Rain','Ava Max - Sweet but Psycho [Official Music Video]' , 'Maroon 5 - Animals (Lyrics)',
 	        'payphone', 'heat wave', 'all we know', 'The Neighbourhood - Sweater Weather', 'Sia - Cheap Thrills',
 	        'Ruth B. - Dandelions'  , 'closer', 'on-my-own', 'rockabye', 'starving','just-a-dream'  ];
