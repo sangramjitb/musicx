@@ -10,7 +10,7 @@ const title = document.getElementById('title');
 const cover = document.getElementById('cover');
 
 // Song titles
-const songs = [ 'gotus','night', 'cut', '2002', 'east', 'past' , 'trust', 'okay' , 'whatever'
+const songs = [ 'rick', 'go', 'post', 'bojack', 'coffee', 'mind', '1000', 'hurt', 'dande', 'without', 'tellme', 'sleep', 'ugly', 'oviman' ,'gotus','night', 'cut', '2002', 'east', 'past' , 'trust', 'okay' , 'whatever'
 	       ,'rox', 'sun',  '7', 'post', 'light', 'teen' , 'brian','die with a smile', 'girls', 'lala', 'bye' ,'audio' ,
 	       'Set Fire to the Rain','Ava Max - Sweet but Psycho [Official Music Video]' , 'Maroon 5 - Animals (Lyrics)',
 	        'payphone', 'heat wave', 'all we know', 'The Neighbourhood - Sweater Weather', 'Sia - Cheap Thrills',
